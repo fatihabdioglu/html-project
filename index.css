@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: auto;
+    background-color: rgb(62, 61, 54);
+    border-radius: 20px;
+    padding: 1rem;
+
+}
+#title{
+    font-size: 90px;
+    text-align: center;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+}
+#span1{
+    color: red;
+}
+#img-div{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+#image{
+    width: 350px;
+}
+#info{
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    font-size: 25px;
+}
+#marvel{
+    color: red;
+    margin-left: 120px;
+}
+ul{
+    width: 80%;
+    margin: auto;
+}
+li{
+    font-size: 24px;
+    line-height: 3rem;
+}
+#footer{
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 2rem;
+}
+#link{
+    text-decoration: none;
+    color:darkgoldenrod;
+    border: 2px solid darkgoldenrod;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: rgb(64, 57, 57);
+}
+#link:hover{
+    background-color: darkgoldenrod;
+    color: red;
+}
